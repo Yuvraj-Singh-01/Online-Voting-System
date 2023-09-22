@@ -1,0 +1,71 @@
+ #headerSection {
+    padding: 2px;
+    font-style: italic;
+    font-size: 25px;
+    font-display:inherit;
+    
+  }
+  
+  #loginSection {
+    padding: 3px;
+  }
+  
+  body {
+    background-image: url("istockphoto-1423153863-612x612.jpg");
+    background-attachment: fixed;
+    background-position:bottom;
+  }
+  
+  #loginbtn {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  #reglink {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  #mainSection {
+    padding: 10px;
+  }
+  
+  #profileSection {
+    width: 30%;
+    margin-top: 10%;
+    float: left;
+    margin-left: 5px;
+    background-color:aliceblue;
+    padding: 20px;
+  }
+  
+  #groupSection {
+    width: 45%;
+    float: right;
+    background-color: aliceblue;
+    
+    padding: 20px;
+  }
+  
+  #logout-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  

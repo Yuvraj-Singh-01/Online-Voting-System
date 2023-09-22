@@ -1,0 +1,46 @@
+body{
+    background-image: url('p2.jpg');
+    background-position: center;
+}
+
+
+.head{
+    text-align: center;
+    font-size: large;
+    color:whitesmoke;
+    font-style: italic;
+}
+
+/*  jab css file update na ho to    ctrl +fn+ f5 Dabao update ho jayega*/
+
+
+.cont{   
+    width: 32%;
+    height: 450px;
+    margin-top: 80px;
+    margin-left: 32%;
+    background: whitesmoke;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.cen{
+    text-align:center;
+    margin-top: 0%;
+    
+}
+.hr{
+    margin-bottom: 15px;
+    display: flex;
+}
+.hr label{
+    width: 100px;
+    margin-right:35px;
+    margin-left: 15px;
+}
+.btn2{
+    border-radius: 5px;
+    background-color:skyblue;
+}
+.btn2:hover{
+    background-color:aqua;
+}
